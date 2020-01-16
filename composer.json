@@ -1,0 +1,17 @@
+{
+    "name": "ruigweb/searcher",
+    "description": "Ruigweb Searcher Laravel Package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Ruigrok van der Werven",
+            "email": "david@ruigweb.nl"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ruigweb\\Searcher\\": "src"
+        }
+    }
+}
