@@ -1,6 +1,6 @@
 {
-    "name": "ruigweb/searcher",
-    "description": "Ruigweb Searcher Laravel Package",
+    "name": "ruigweb/needle",
+    "description": "Ruigweb Needle Laravel Package",
     "license": "MIT",
     "authors": [
         {
@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Ruigweb\\Searcher\\": "src"
+            "Ruigweb\\Needle\\": "src"
         }
     }
 }
